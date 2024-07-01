@@ -1,0 +1,11 @@
+import React from 'react';
+
+const HomePage = () => {
+  return (
+    <div>
+      <h1>Welcome to the Gaming Site</h1>
+    </div>
+  );
+};
+
+export default HomePage;
